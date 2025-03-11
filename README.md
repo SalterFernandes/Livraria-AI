@@ -3,73 +3,82 @@
 ## 📌 Sobre
 Esta é uma coleção de ferramentas de Inteligência Artificial organizadas por categoria. O objetivo é criar um repositório fácil de navegar com exemplos práticos e links úteis.
 
-## 📂 Estrutura do Repositório
+## 📂 Links para as ferramentas.
 
-```
-📦 Biblioteca-Ferramentas-IA
-│── 📜 README.md
-│── 📁 Música
-│   ├── aiva.md
-│   ├── boomy.md
-│   ├── magenta.md
-│── 📁 Vídeo
-│   ├── runway.md
-│   ├── capcut-ai.md
-│   ├── synthesia.md
-│── 📁 Imagens
-│   ├── stable-diffusion.md
-│   ├── midjourney.md
-│   ├── dalle.md
-│   ├── deep-dream.md
-│── 📁 Programação
-│   ├── copilot.md
-│   ├── tabnine.md
-│   ├── codeium.md
-│   ├── codiumai.md
-│── 📁 Apresentações
-│   ├── tome.md
-│   ├── visme.md
-│   ├── ink.md
-│   ├── designscape.md
-│   ├── beautifull_ai.md
-│── 📁 Escrita
-│   ├── jasper.md
-│   ├── grammarly.md
-│   ├── inklyo.md
-│   ├── sudowrite.md
-│   ├── writer.md
-│── 📁 Pesquisa
-│   ├── ai-search.md
-│   ├── connectedpapers.md
-│   ├── irisdot-ai.md
-│   ├── paperpile.md
-│   ├── semantic-scholar.md
-│── 📁 Email
-│   ├── banter.md
-│   ├── ghostwriter.md
-│   ├── kembo.md
-│   ├── parsely.md
-│   ├── flowrite.md
-│── 📁 PLN
-│   ├── openai-gpt.md
-│   ├── huggingface-transformers.md
-│   ├── spacy.md
-│   ├── ntlk.md
-│── 📁 Visão Computacional
-│   ├── opencv.md
-│   ├── darknet.md
-│   ├── pytorch.md
-│   ├── tensorflow.md
-│── 📁 Audio
-│   ├── lovo.md
-│   ├── adobe_podcast.md
-│   ├── flexclip.md
-│   ├── elevenlabs.md
-│── 📁 Automação
-│   ├── automation-anywhere.md
-│   ├── blue-prism.md
-│   ├── clickup.md
-│   ├── liveperson.md
-│   ├── powershell.md
-│   ├── uipath.md
-```
+### Música
+- [AIVA](./Música/aiva.md)
+- [Boomy](./Música/boomy.md)
+- [Magenta](./Música/magenta.md)
+
+### Vídeo
+- [Runway](./Vídeo/runway.md)
+- [CapCut AI](./Vídeo/capcut-ai.md)
+- [Synthesia](./Vídeo/synthesia.md)
+
+### Imagens
+- [Stable Diffusion](./Imagens/stable-diffusion.md)
+- [MidJourney](./Imagens/midjourney.md)
+- [DALL·E](./Imagens/dalle.md)
+- [Deep Dream](./Imagens/deep-dream.md)
+
+### Programação
+- [Copilot](./Programação/copilot.md)
+- [Tabnine](./Programação/tabnine.md)
+- [Codeium](./Programação/codeium.md)
+- [CodiumnAI](./Programação/codiumai.md)
+
+### Apresentações
+- [Tome](./Apresentações/tome.md)
+- [Visme](./Apresentações/visme.md)
+- [Ink](./Apresentações/ink.md)
+- [DesignScape](./Apresentações/designscape.md)
+- [Beautiful AI](./Apresentações/beautifull_ai.md)
+
+### Escrita
+- [Jasper](./Escrita/jasper.md)
+- [Grammarly](./Escrita/grammarly.md)
+- [Inklyo](./Escrita/inklyo.md)
+- [Sudowrite](./Escrita/sudowrite.md)
+- [Writer](./Escrita/writer.md)
+
+### Pesquisa
+- [AI Search](./Pesquisa/ai-search.md)
+- [Connected Papers](./Pesquisa/connectedpapers.md)
+- [IrisDot AI](./Pesquisa/irisdot-ai.md)
+- [Paperpile](./Pesquisa/paperpile.md)
+- [Semantic Scholar](./Pesquisa/semantic-scholar.md)
+
+### Email
+- [Banter](./Email/banter.md)
+- [Ghostwriter](./Email/ghostwriter.md)
+- [Kembo](./Email/kembo.md)
+- [Parsely](./Email/parsely.md)
+- [Flowrite](./Email/flowrite.md)
+
+### PLN (Processamento de Linguagem Natural)
+- [OpenAI GPT](./PLN/openai-gpt.md)
+- [Huggingface Transformers](./PLN/huggingface-transformers.md)
+- [spaCy](./PLN/spacy.md)
+- [NLTK](./PLN/ntlk.md)
+
+### Visão Computacional
+- [OpenCV](./Visão_Computacional/opencv.md)
+- [Darknet](./Visão_Computacional/darknet.md)
+- [PyTorch](./Visão_Computacional/pytorch.md)
+- [TensorFlow](./Visão_Computacional/tensorflow.md)
+
+### Áudio
+- [Lovo](./Áudio/lovo.md)
+- [Adobe Podcast](./Áudio/adobe_podcast.md)
+- [Flexclip](./Áudio/flexclip.md)
+- [Eleven Labs](./Áudio/elevenlabs.md)
+
+### Automação
+- [Automation Anywhere](./Automação/automation-anywhere.md)
+- [Blue Prism](./Automação/blue-prism.md)
+- [ClickUp](./Automação/clickup.md)
+- [LivePerson](./Automação/liveperson.md)
+- [PowerShell](./Automação/powershell.md)
+- [UiPath](./Automação/uipath.md)
+
+You can now copy and use these links as needed for your project!
