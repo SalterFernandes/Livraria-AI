@@ -1,6 +1,5 @@
 📌 `PLN/huggingface-transformers.md`
 
-```md
 # Hugging Face Transformers
 
 ## 🔹 Descrição

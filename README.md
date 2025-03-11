@@ -62,16 +62,16 @@ Esta é uma coleção de ferramentas de Inteligência Artificial organizadas por
 - [NLTK](./PLN/ntlk.md)
 
 ### Visão Computacional
-- [OpenCV](./Visão_Computacional/opencv.md)
-- [Darknet](./Visão_Computacional/darknet.md)
-- [PyTorch](./Visão_Computacional/pytorch.md)
-- [TensorFlow](./Visão_Computacional/tensorflow.md)
+- [OpenCV](./Visao_Computacional/opencv.md)
+- [Darknet](./Visao_Computacional/darknet.md)
+- [PyTorch](./Visao_Computacional/pytorch.md)
+- [TensorFlow](./Visao_Computacional/tensorflow.md)
 
 ### Áudio
-- [Lovo](./Áudio/lovo.md)
-- [Adobe Podcast](./Áudio/adobe_podcast.md)
-- [Flexclip](./Áudio/flexclip.md)
-- [Eleven Labs](./Áudio/elevenlabs.md)
+- [Lovo](./Audio/lovo.md)
+- [Adobe Podcast](./Audio/adobe_podcast.md)
+- [Flexclip](./Audio/flexclip.md)
+- [Eleven Labs](./Audio/elevenlabs.md)
 
 ### Automação
 - [Automation Anywhere](./Automação/automation-anywhere.md)
@@ -80,5 +80,3 @@ Esta é uma coleção de ferramentas de Inteligência Artificial organizadas por
 - [LivePerson](./Automação/liveperson.md)
 - [PowerShell](./Automação/powershell.md)
 - [UiPath](./Automação/uipath.md)
-
-You can now copy and use these links as needed for your project!

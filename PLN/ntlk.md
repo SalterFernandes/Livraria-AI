@@ -1,6 +1,5 @@
 📌 `pln/nltk.md`
 
-markdown
 # NLTK (Natural Language Toolkit)
 
 ## 🔹 Descrição

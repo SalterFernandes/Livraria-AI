@@ -1,6 +1,5 @@
 📌 `musica/magenta.md`
 
-```md
 # Magenta
 
 ## 🔹 Descrição

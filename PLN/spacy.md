@@ -1,6 +1,5 @@
 📌 `PLN/spacy.md`
 
-```md
 # spaCy
 
 ## 🔹 Descrição

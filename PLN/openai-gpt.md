@@ -1,6 +1,5 @@
 📌 `PLN/openai-gpt.md`
 
-```md
 # OpenAI GPT-4
 
 ## 🔹 Descrição
